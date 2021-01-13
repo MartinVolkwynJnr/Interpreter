@@ -1,0 +1,6 @@
+E:\Private\Projects\Interpreter\bin\Debug\Interpreter.exe.config
+E:\Private\Projects\Interpreter\bin\Debug\Interpreter.exe
+E:\Private\Projects\Interpreter\bin\Debug\Interpreter.pdb
+E:\Private\Projects\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+E:\Private\Projects\Interpreter\obj\Debug\Interpreter.exe
+E:\Private\Projects\Interpreter\obj\Debug\Interpreter.pdb
